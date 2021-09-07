@@ -1,0 +1,12 @@
+Address of c:0x7ffdc5e2effc
+Value of c:22
+
+Address of pointer pc:0x7ffdc5e2effc
+Content of pointer pc:22
+
+Address of pointer pc:0x7ffdc5e2effc
+Content of pointer pc:11
+
+Address of c:0x7ffdc5e2effc
+Value of c:2
+
