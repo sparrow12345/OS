@@ -1,0 +1,5 @@
+ex2-+-ex2-+-ex2---ex2
+    |     `-ex2
+    |-ex2---ex2
+    `-ex2
+the parent process will create three children: the first one will create two childern, the second will create one child, and the last one won't create any. Then the chlidren of the child process will fork and so it goes till the end of the loop.
