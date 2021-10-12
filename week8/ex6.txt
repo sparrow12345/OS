@@ -1,0 +1,3 @@
+8 Kilobytes are (2^3)*(2^10) bytes, so there are 2^13 memory locations in a single page.
+13 bits are enough for them So 3 bits remain for the table entry index.
+3 bits can encode 8 entries because it's equal to 2^3

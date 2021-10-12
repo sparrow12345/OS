@@ -1,0 +1,3 @@
+The physical address refers to the location in the physical memory whereas the virtual address refers to the address space of the process
+
+MMU relates each physical address to the virtual one.

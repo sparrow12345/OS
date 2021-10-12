@@ -1,0 +1,10 @@
+PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   34 gold    20   0   16928   1992   1432 R   2.0   0.0   0:00.06 top
+   134 root   20   0    8324    144    120 S   0.0   0.0   0:00.10 init
+   396 root   20   0    8340    156    112 S   0.0   0.0   0:00.00 init
+   474 gold   20   0   14972   2256   2180 S   0.0   0.0   0:00.07 bash
+   35 root    20   0    8340    164    120 S   0.0   0.0   0:00.01 init
+   36 gold    20   0   14972   2316   2236 S   0.0   0.0   0:00.03 bash
+   40 gold    20   0   92272    536    384 S   0.0   0.0   0:00.00 a.out
+
+P.S. I'm using a linux shell inside windows
